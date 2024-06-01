@@ -1,0 +1,10 @@
+#img1{
+    float: left;
+}
+#img2{
+    float: right;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
