@@ -1,10 +1,14 @@
 #img1{
     float: left;
+    width: 50vw;
+    height: 50vh;
 }
 #img2{
     float: right;
+    width: 50vw;
+    height: 50vh;
 }
 *{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto' ;
     text-align: justify;
 }
